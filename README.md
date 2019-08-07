@@ -161,13 +161,13 @@ At present, we officially aim to support the last two versions of the following 
 - [Argon Design System](https://www.creative-tim.com/product/argon-design-system?ref=argonrn-readme) - For Front End Development
 - **Dashboards:**
 
-| HTML | React | Angular |
+| HTML | React | Vue |
 | --- | --- | ---  |
-| [![Argon HTML](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard/argon-dashboard.jpg)](https://www.creative-tim.com/product/argon-dashboard) | [![Argon Dashboard React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/argon-dashboard-react.jpg)](https://www.creative-tim.com/product/argon-dashboard-react) | [![Argon Dashboard Angular](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-angular/argon-dashboard-angular.jpg)](https://www.creative-tim.com/product/argon-dashboard-angular)
+| [![Argon HTML](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-pro/argon-dashboard-pro.jpg)](https://www.creative-tim.com/product/argon-dashboard-pro) | [![Argon Dashboard React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-pro-react/argon-dashboard-pro-react.jpg)](https://www.creative-tim.com/product/argon-dashboard-pro-react) | [![Argon Dashboard Vue](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-argon-dashboard-pro/vue-argon-dashboard-pro.jpg)](https://www.creative-tim.com/product/vue-argon-dashboard-pro)
 
 | Node.js | ASP.NET  |
 | --- | --- |
-| [![Argon Dashboard NodeJS](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-nodejs/argon-dashboard-nodejs.jpg)](https://www.creative-tim.com/product/argon-dashboard-nodejs) | [![Argon Dashboard ASP.NET](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard-aspnet/argon-dashboard-aspnet.gif)](https://www.creative-tim.com/product/argon-dashboard-asp-net)
+| [![Argon Dashboard NodeJS](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-pro-nodejs/argon-dashboard-pro-nodejs.jpg)](https://www.creative-tim.com/product/argon-dashboard-pro-nodejs) | [![Argon Dashboard Nuxt](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/nuxt-argon-dashboard-pro/nuxt-argon-dashboard-pro.jpg)](https://www.creative-tim.com/product/nuxt-argon-dashboard-pro)
 
 
 ## Reporting Issues
