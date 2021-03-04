@@ -1,7 +1,7 @@
 # [Argon PRO React Native](https://creativetimofficial.github.io/argon-pro-react-native/docs/#) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=Start%20Your%20Development%20With%20A%20Badass%20React%20Native%20app%20inspired%20by%20Argon%20Design%20System.%0Ahttps%3A//demos.creative-tim.com/argon-pro-react-native/)
 
 
- ![version](https://img.shields.io/badge/version-1.5.0-blue.svg)  [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-argon-pro-react-native.svg?style=flat)](https://github.com/creativetimofficial/ct-argon-pro-react-native/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-argon-pro-react-native.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-argon-pro-react-native/issues?q=is%3Aissue+is%3Aclosed)
+ ![version](https://img.shields.io/badge/version-1.6.0-blue.svg)  [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-argon-pro-react-native.svg?style=flat)](https://github.com/creativetimofficial/ct-argon-pro-react-native/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-argon-pro-react-native.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-argon-pro-react-native/issues?q=is%3Aissue+is%3Aclosed)
 
 
 ![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-pro-react-native/argp-rn-thumbnail.jpg)
