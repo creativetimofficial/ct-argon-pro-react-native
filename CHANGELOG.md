@@ -1,3 +1,25 @@
+## [1.8.0] 2022-07-19
+### Updated dependencies
+
+- Fixed the dual header shown issue.
+- Updated @react-native-masked-view/masked-view@0.2.4 to @react-native-masked-view/masked-view@0.2.6
+- Updated expo@^42.0.0 to expo@^45.0.0
+- Updated expo-app-loading@~1.1.2 to expo-app-loading@~2.0.0
+- Updated expo-expo-asset@~8.3.2 to expo-asset@~8.5.0
+- Updated expo-font@~9.2.1 to expo-font@~10.1.0
+- Updated expo-module-core@^0.2.0 to expo-module-core@~0.9.2
+- Updated expo-linear-gradient@~9.2.0 to expo-linear-gradient@~11.3.0
+- Updated react@16.13.1 to react@17.0.2
+- Updated react-native@42.0.0 to react@0.68.2
+- Updated react-native-gesture-handler@^1.10.3 to react-native-gesture-handler@~2.2.1
+- Updated react-native-reanimated@~2.2.0 to react-native-reanimated@~2.8.0
+- Updated react-native-safe-area-context@3.2.0 to react-native-safe-area-context@4.2.4
+- Updated react-native-screens@~3.4.0 to react-native-screens@~3.11.1
+- Updated dev dependencies
+- Updated babel-preset-expo@8.3.0 to babel-preset-expo@~9.1.0
+- Updated Babel Config
+- Added a new plugin of react-native-reanimated/plugin
+
 ## [1.7.0] 2022- 04- 26
 ### Updated dependencies
 - dependencies updated 
