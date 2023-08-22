@@ -1,4 +1,4 @@
-## [v1.9.1] 2023-08-22
+## [1.9.1] 2023-08-22
 ### BugFixing
 
 - Fix duplicate navigation name issue
